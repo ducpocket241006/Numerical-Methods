@@ -11,5 +11,6 @@ while b-a> eps
         b = xn;
     end
 end
-disp(xn)
+x = xn
+
 end
